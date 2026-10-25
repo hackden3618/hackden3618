@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+I'm Dennis...
+Your skeptic in well thought out software development 
+- I'm a Computer Scientist by profession and...
+> `I just love to tinker with computers while building sophisticated well thought out systems`
+- I’m currently working on SaaS products for my startup and unrelated hobby projects.
 <!--
 **hackden3618/hackden3618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
