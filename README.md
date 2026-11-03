@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hackden3618" alt="hackden3618" /></a> </p>
 
-- 🔭 I’m currently working on [SaaS products](ladha.co.ke) for my startup and unrelated hobby projects.
+- 🔭 I’m currently working on [SaaS products](https://ladha.co.ke) for my startup and unrelated hobby projects.
 
 - 🌱 I’m currently learning **AI/ML**
 
